@@ -23,11 +23,4 @@
 ---
 
 
-
-## 📬 **Let's Connect!**
-- 🔗 [LinkedIn](www.linkedin.com/in/yusra-emaan-46b471296)  
-- 📧 [Email Me](yusraemaan20@gmail.com)  
-
----
-
 ⭐ **_"Data is the new oil, and I refine it into insights!"_**
