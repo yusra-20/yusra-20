@@ -14,9 +14,6 @@
 ---
 
 
-
----
-
 ## 🛠 **Skills**
 `SQL` • `Python` • `Power BI` • `Excel` • `Oracle Database`
 
